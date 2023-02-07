@@ -50,3 +50,5 @@ $ npm run deploy
 ```
 
 Very easy and in just one step!  Push to your __master__ branch and use the free hosting that comes with [GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), the project is ready to be published. Remember to choose to run the Github Page from your master branch.
+# ExcuseGenerator_.js
+# ExcuseGenerator_.js
